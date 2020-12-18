@@ -5,4 +5,4 @@
  */
 
 
-package com.github.spring.boot.ddd.application.service;
+package com.github.spring.boot.ddd.domain.vo;
